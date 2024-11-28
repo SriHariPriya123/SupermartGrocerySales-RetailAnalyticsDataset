@@ -38,6 +38,7 @@ The correlation between profit and discount is minimal, suggesting that discount
 
 # Model Performance
 The linear regression model achieved an R-squared value of -0.0024240538359081576, indicating the proportion of variance explained by the model.
+
 The random forest regression model achieved an R-squared value of -0.16211610179024816, indicating the proportion of variance explained by the model.
 
 # Conclusion
