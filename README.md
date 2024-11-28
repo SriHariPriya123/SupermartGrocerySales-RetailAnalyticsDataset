@@ -8,16 +8,27 @@ This project involves an in-depth analysis of the Supermart Grocery Sales datase
 The dataset includes 11 columns:
 
 Order ID: Unique identifier for each order.
+
 Customer Name: Name of the customer who placed the order.
+
 Category: Main category of the purchased product.
+
 Sub Category: Sub-category of the product.
+
 City: City where the order was delivered.
+
 Order Date: Date when the order was placed.
+
 Region: Region of the city.
+
 Sales: Total sales amount for the order.
+
 Discount: Discount applied on the order.
+
 Profit: Profit made from the order.
+
 State: State where the order was delivered.
+
 
 # Results
 # Key Findings
